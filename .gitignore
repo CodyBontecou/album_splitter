@@ -1,0 +1,4 @@
+*.wav
+venv
+splits*
+.DS_Store
